@@ -12,9 +12,11 @@ print("\n imprimir indicadores")
 print(data.describe())
   
 
-print("\n imprimir precio")
+print("\n cantidad de filas")
 print(data.shape)
 
   
+print("\n agrupando por columnas")
+print(data.shape)
 
 
