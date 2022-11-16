@@ -1,0 +1,15 @@
+El archivo tienda.py 
+contiene el codigo para realizar
+el scraping de la web...
+	- sacartodas las categorias y subcaterias
+	- almacenarlas en la bd en sus respectivas tablas
+
+
+El archivo productos.py 
+contiene el codigo para realizar
+el scraping de la web...
+	- descargar loa descripcion de los productos de la pagina
+	- almacenarlas en la bd en su respectivas tabla
+
+
+
